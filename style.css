@@ -95,7 +95,7 @@ header > .container {
 
 .hero-text {
   position: absolute;
-  top: 65%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -45%);
   text-align: center;
@@ -252,10 +252,6 @@ footer {
   .hamburger-menu {
     top: 35px;
     right: 25px;
-  }
-
-  .hero-text {
-    top: 85%;
   }
 
   .point-left::before,
